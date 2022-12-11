@@ -1,6 +1,6 @@
 Interests:
 - Web3, Ethereum, Polygon
-- Python, AI
+- Python, Javascript, AI
 - 3D, Unity, Blender
 
 Find me on: 
